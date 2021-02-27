@@ -16,7 +16,7 @@
 - In `OpenMusic Preferences/MIDI`, enable OSC communication between OM and **miniOMsynth**, by setting the default score player to `osc-scoreplayer`. Check the `Force Score Player` box.
 
 #### MIDI playback
-- If OSC playback does not work, **miniOMsynth** also has MIDI playback support. In `OpenMusic Preferences/MIDI`, set the default score player to `midi-player`. Then, in `Ports setup`, include `to miniOMsynth` as an input device.
+- If OSC playback does not work, **miniOMsynth** also has MIDI playback support. In `OpenMusic Preferences/MIDI`, set the default score player to `midi-player`. Then, in `Ports setup`, include `to miniOMsynth 1` as an input device. Do the same in `miniOMsynth/input settings/MIDI input/`.
 
 | <img src="miniOMsynth_prev_images/miniOMsynth_main.png" width="197" height="306"> | <img src="miniOMsynth_prev_images/miniOMsynth_mixer.png" width="220" height="308"> |
 |------------|------------|
