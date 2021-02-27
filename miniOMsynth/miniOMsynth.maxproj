@@ -2,7 +2,7 @@
 	"name" : "miniOMsynth",
 	"version" : 1,
 	"creationdate" : 3696440730,
-	"modificationdate" : 3697043860,
+	"modificationdate" : 3697259269,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
