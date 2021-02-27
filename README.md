@@ -18,6 +18,7 @@
 - If OSC playback does not work, **miniOMsynth** also has MIDI playback support. In `OpenMusic Preferences/MIDI`, set the default score player to `midi-player`. Then, in `Ports setup`, include `to miniOMsynth` as an output device.
 
 | <img src="miniOMsynth_prev_images/miniOMsynth_main.png" width="197" height="306"> | <img src="miniOMsynth_prev_images/miniOMsynth_mixer.png" width="220" height="308"> |
+|------------|------------|
 | <img src="miniOMsynth_prev_images/miniOMsynth_editor.png" width="257" height="322"> | <img src="miniOMsynth_prev_images/miniOMsynth_inputs.png" width="185" height="132"> |
 
 
