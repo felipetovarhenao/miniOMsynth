@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 1,
-			"revision" : 10,
+			"minor" : 2,
+			"revision" : 1,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 79.0, 221.0, 336.0 ],
+		"rect" : [ 34.0, 87.0, 1040.0, 675.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -62,8 +62,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 10,
+							"minor" : 2,
+							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -109,8 +109,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -777,14 +777,14 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 10,
+							"minor" : 2,
+							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 294.0, 79.0, 287.0, 351.0 ],
+						"rect" : [ 294.0, 87.0, 287.0, 351.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
 						"default_fontsize" : 12.0,
@@ -812,6 +812,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -1073,8 +1074,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1440,8 +1441,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1926,8 +1927,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2199,8 +2200,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2586,8 +2587,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2909,8 +2910,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -4166,8 +4167,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 10,
+											"minor" : 2,
+											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -5371,8 +5372,8 @@
 							}
  ],
 						"bgcolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ],
-						"editing_bgcolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ],
-						"stripecolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ]
+						"stripecolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ],
+						"editing_bgcolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ]
 					}
 ,
 					"patching_rect" : [ 127.599999999999795, 221.0, 89.0, 22.0 ],
@@ -5445,8 +5446,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 10,
+							"minor" : 2,
+							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7128,8 +7129,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 10,
+							"minor" : 2,
+							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7304,8 +7305,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 10,
+							"minor" : 2,
+							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -8258,7 +8259,7 @@
 					"mode" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1009.849999999999909, 17.0, 128.0, 128.0 ],
+					"patching_rect" : [ 990.850000000000023, 17.042983055114746, 128.0, 128.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 6.770278669940026, 7.370370030403137, 206.0, 322.057599604129791 ],
 					"proportion" : 0.5
@@ -8688,35 +8689,35 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "om-synth-poly~.maxpat",
-				"bootpath" : "~/Online Portfolio/Personal research/miniOMsynth-folder/miniOMsynth/patchers",
+				"bootpath" : "~/My Drive/FTH Drive/Personal research/miniOMsynth/miniOMsynth/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "thru.maxpat",
-				"bootpath" : "~/Online Portfolio/Personal research/miniOMsynth-folder/miniOMsynth/patchers",
+				"bootpath" : "~/My Drive/FTH Drive/Personal research/miniOMsynth/miniOMsynth/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "yafr2.maxpat",
-				"bootpath" : "~/Online Portfolio/Personal research/miniOMsynth-folder/miniOMsynth/patchers",
+				"bootpath" : "~/My Drive/FTH Drive/Personal research/miniOMsynth/miniOMsynth/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "icon2.png",
-				"bootpath" : "~/Online Portfolio/Personal research/miniOMsynth-folder",
-				"patcherrelativepath" : "../..",
+				"bootpath" : "~/My Drive/FTH Drive/Personal research/miniOMsynth/miniOMsynth/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "urn-jb.maxpat",
-				"bootpath" : "~/Online Portfolio/Personal research/miniOMsynth-folder/miniOMsynth/patchers",
+				"bootpath" : "~/My Drive/FTH Drive/Personal research/miniOMsynth/miniOMsynth/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -8743,8 +8744,8 @@
 			}
  ],
 		"bgcolor" : [ 0.16078431372549, 0.16078431372549, 0.16078431372549, 1.0 ],
-		"editing_bgcolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ],
-		"stripecolor" : [ 0.337254901960784, 0.337254901960784, 0.337254901960784, 1.0 ]
+		"stripecolor" : [ 0.337254901960784, 0.337254901960784, 0.337254901960784, 1.0 ],
+		"editing_bgcolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ]
 	}
 
 }
