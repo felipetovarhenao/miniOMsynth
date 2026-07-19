@@ -9,7 +9,7 @@
             "modernui": 1
         },
         "classnamespace": "box",
-        "rect": [ 372.0, 216.0, 214.0, 334.0 ],
+        "rect": [ 372.0, 215.0, 214.0, 334.0 ],
         "openinpresentation": 1,
         "boxes": [
             {
@@ -6050,12 +6050,12 @@
                     "patching_rect": [ 225.54839342832565, 389.0, 158.0, 22.0 ],
                     "saved_object_attributes": {
                         "allwindowsactive": 0,
-                        "appicon_mac": "Macintosh HD:/Users/felipetovarhenao/Online Portfolio/Personal research/miniOMsynth-folder/icon2.icns",
-                        "appicon_win": "Macintosh HD:/Users/felipetovarhenao/Online Portfolio/Personal research/miniOMsynth-folder/icon2.ico",
+                        "appicon_mac": "app_icon.icns",
+                        "appicon_win": "app_icon.ico",
                         "audiosupport": 1,
-                        "bundleidentifier": "www.felipe-tovar-henao.com",
+                        "bundleidentifier": "com.felipetovarhenao.miniOMsynth",
                         "cantclosetoplevelpatchers": 1,
-                        "cefsupport": 1,
+                        "cefsupport": 0,
                         "copysupport": 1,
                         "database": 0,
                         "extensions": 1,
